@@ -405,6 +405,23 @@
         "social": []
     },
     {
+        "lat": 0,
+        "lon": 0,
+        "category": "Web",
+        "name": "i277943",
+        "description": "i277943-desc  JSONTEST \"double\" \\backslash\\  line1\nline2 end",
+        "address": "i277943 test address",
+        "postal": "28001",
+        "location": "Madrid",
+        "country": "Spain",
+        "email": "i277943canary@euploading.com",
+        "phone": "+10000000000",
+        "website": "https://example.com/i277943",
+        "social": [
+            "https://example.com/i277943social"
+        ]
+    },
+    {
         "lat": 38.725195,
         "lon": -9.150023,
         "category": "Other",
