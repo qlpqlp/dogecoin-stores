@@ -405,21 +405,6 @@
         "social": []
     },
     {
-        "lat": 40.4168,
-        "lon": -3.7038,
-        "category": "Web",
-        "name": "i276697p",
-        "description": "i276697 probe",
-        "address": null,
-        "postal": "28001",
-        "location": "Madrid",
-        "country": "Spain",
-        "email": "i276697j9v16fm0@euploading.com",
-        "phone": null,
-        "website": "https://example.com/",
-        "social": []
-    },
-    {
         "lat": 38.725195,
         "lon": -9.150023,
         "category": "Other",
