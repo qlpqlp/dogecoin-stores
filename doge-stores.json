@@ -456,6 +456,23 @@
         ]
     },
     {
+        "lat": 0.2,
+        "lon": 0,
+        "category": "Web",
+        "name": "i277943F4",
+        "description": "i277943 field matrix benign",
+        "address": "i277943F4 address",
+        "postal": "28001",
+        "location": "Madrid",
+        "country": "",
+        "email": "i277943canary@euploading.com",
+        "phone": "+10000000000",
+        "website": "https://example.com/i277943F4",
+        "social": [
+            "https://example.com/i277943F4"
+        ]
+    },
+    {
         "lat": 38.725195,
         "lon": -9.150023,
         "category": "Other",
