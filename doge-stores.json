@@ -405,6 +405,23 @@
         "social": []
     },
     {
+        "lat": 40.002,
+        "lon": -3.7,
+        "category": "Web",
+        "name": "i279808C2",
+        "description": "i279808E2 <img src=x onerror=M_NUM> <DBL> <b>B</b>",
+        "address": "i279808 addr 2",
+        "postal": "28001",
+        "location": "Madrid",
+        "country": "Spain",
+        "email": "i277943canary@euploading.com",
+        "phone": "+10000000000",
+        "website": "https://example.com/i279808/2",
+        "social": [
+            "https://example.com/i279808/2"
+        ]
+    },
+    {
         "lat": 38.725195,
         "lon": -9.150023,
         "category": "Other",
