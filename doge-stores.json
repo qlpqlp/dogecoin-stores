@@ -405,6 +405,23 @@
         "social": []
     },
     {
+        "lat": 40.008,
+        "lon": -3.7,
+        "category": "Web",
+        "name": "i279808BENIGN",
+        "description": "i279808 benign control listing",
+        "address": "i279808 addr 8",
+        "postal": "28001",
+        "location": "Madrid",
+        "country": "Spain",
+        "email": "i277943canary@euploading.com",
+        "phone": "+10000000000",
+        "website": "https://example.com/i279808/8",
+        "social": [
+            "https://example.com/i279808/8"
+        ]
+    },
+    {
         "lat": 40.002,
         "lon": -3.7,
         "category": "Web",
