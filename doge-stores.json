@@ -405,23 +405,6 @@
         "social": []
     },
     {
-        "lat": 40.416813,
-        "lon": -3.703813,
-        "category": "Web",
-        "name": "i277941A1 window.__i277941=1",
-        "description": "i277941D1 window.__i277941d=1 & < > \" '",
-        "address": "i277941A2 window.__i277941a=1",
-        "postal": "i277941P1",
-        "location": "i277941L1",
-        "country": "i277941C1",
-        "email": "i277941afhg57ax@euploading.com",
-        "phone": "i277941F1 ph",
-        "website": "https://example.com/i277941?a=%3C%2Fscript%3E&b=1",
-        "social": [
-            "https://example.com/i277941s?a=%3C/script%3E"
-        ]
-    },
-    {
         "lat": 38.725195,
         "lon": -9.150023,
         "category": "Other",
